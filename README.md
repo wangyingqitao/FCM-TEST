@@ -1,3 +1,3 @@
 
 24/5000
-The process from audio file to frequency correlation matrix.
+Calculate the frequency correlation matrix of the target audio file.
